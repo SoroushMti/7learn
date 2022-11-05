@@ -1,1 +1,3 @@
-lan = en
+lan = fa
+
+>>>>>>> ozgal
