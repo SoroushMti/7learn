@@ -1,3 +1,3 @@
-lan = fa
+lan = tu
 
->>>>>>> ozgal
+>>>>>>> turkey
